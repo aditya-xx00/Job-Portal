@@ -4,36 +4,23 @@ A full-featured Job Portal web application where job seekers can search and appl
 
 🚀 Features
 User Authentication (Login/Register)
-
 Role-based Access: Job Seeker & Recruiter
-
 Job Posting & Management (Recruiter)
-
 Job Search & Apply (Job Seeker)
-
 Resume Upload & Profile Management
-
-Admin Panel (optional)
+Admin Panel
 
 🛠️ Tech Stack
 Frontend:
-
 React.js
-
-Tailwind CSS / Bootstrap
-
+Tailwind CSS
 Axios
 
 Backend:
-
 Node.js + Express.js
-
 MongoDB (Mongoose)
 
 Other Tools:
-
 JWT for authentication
-
 Multer (for file upload)
-
 Cloudinary
